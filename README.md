@@ -4,7 +4,7 @@
 Jr. Java Developer
 -----------------
 
-I graduated from Kocaeli University, Department of Environmental Engineering. After my graduation, I wanted to improve myself in the field of Java. With the training in the field of software, I developed projects with Java language. I want to take part in professional projects where I can apply my experience in this field and learn new technologies.
+After graduating from Kocaeli University with a degree in Environmental Engineering, I aimed to enhance my skills in the field of Java. Through software training, I have developed projects using the Java language. I am now seeking opportunities to contribute to professional projects where I can apply my experience and learn new technologies.
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [ozanzzeynep@gmail.com](mailto:ozanzzeynep@gmail.com)
